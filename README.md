@@ -41,6 +41,8 @@ your preferred browser.
 ```sh
 localhost:8000
 ```
+## Screenshots
+![homepage](https://user-images.githubusercontent.com/22155130/209129485-2cdf3196-17b4-4b88-97fa-467326dac3db.jpg)
 
 ## License
 
